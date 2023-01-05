@@ -11,8 +11,10 @@ Now that you are all set up, it's time to learn a little more about the tools of
 7. What is a merge conflict?
 8. How do you resolve a merge conflict?
 
+Answers
+
 1. Git is a version control system that lets you manage and keep track of your 
-source code histor.
+source code history.
 2. Git is a version control system and GitHub is a hosting service that lets you 
 manage Git repositories.
 3. We make a branch to make and test changes that are not ready to be a part of 
